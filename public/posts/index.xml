@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Andaru Hymawan Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Andaru Hymawan Blog</description>
+    <generator>Hugo -- 0.168.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Oct 2026 16:24:05 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What</title>
+      <link>http://localhost:1313/posts/2026-10-16-what/</link>
+      <pubDate>Fri, 16 Oct 2026 16:24:05 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2026-10-16-what/</guid>
+      <description>&lt;p&gt;My secret key: 1234&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello again 2</title>
+      <link>http://localhost:1313/posts/2026-10-16-hello-again-2/</link>
+      <pubDate>Fri, 16 Oct 2026 03:24:57 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2026-10-16-hello-again-2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello again</title>
+      <link>http://localhost:1313/posts/2026-10-16-hello-again/</link>
+      <pubDate>Fri, 16 Oct 2026 03:24:15 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2026-10-16-hello-again/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Welcome to my blog</title>
+      <link>http://localhost:1313/posts/2026-10-16-welcome-to-my-blog/</link>
+      <pubDate>Fri, 16 Oct 2026 02:58:58 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2026-10-16-welcome-to-my-blog/</guid>
+      <description>&lt;p&gt;This is my first ever post&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
