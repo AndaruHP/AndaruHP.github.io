@@ -6,15 +6,8 @@
     <description>Recent content in Introduction on Andaru Hymawan Blog</description>
     <generator>Hugo -- 0.168.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 16:32:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:24:05 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bomb Finder</title>
-      <link>http://localhost:1313/projects/2026-10-16-bomb-finder/</link>
-      <pubDate>Fri, 16 Oct 2026 16:32:05 +0000</pubDate>
-      <guid>http://localhost:1313/projects/2026-10-16-bomb-finder/</guid>
-      <description>I made a bomb that can be exploded</description>
-    </item>
     <item>
       <title>What</title>
       <link>http://localhost:1313/posts/2026-10-16-what/</link>
