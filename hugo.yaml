@@ -1,0 +1,65 @@
+baseURL: https://example.org/
+locale: en-us
+title: Andaru Hymawan Blog
+theme: PaperMod
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Projects
+      url: projects/
+      weight: 2
+    - name: Resources
+      url: resources
+      weight: 3
+    - name: Search
+      url: search
+      weight: 4
+    # - name: About
+    #   url: about
+    #   weight: 5
+    # - name: Contact
+    #   url: contact
+    #   weight: 6
+
+params:
+  author: Andaru Hymawan
+  label:
+    icon: images/profile.jpg
+    iconHeight: 32
+  mainSections: ["posts", "articles", "projects"]
+  summarySections: ["projects"]
+
+  disableSpecial1stPost: true
+
+  defaultTheme: auto
+
+  showReadingTime: true
+
+  socialIcons:
+    - name: x
+      url: "https://x.com/itsandaru"
+    - name: github
+      url: "https://github.com/AndaruHP"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/andaruhymawan"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10
+    keys: ["title", "permalink", "summary", "content"]
+
+outputs:
+  home: [HTML, RSS, JSON]
+
+# hugo configuration
+caches:
+  images:
+    dir: :cacheDir/images

@@ -1,0 +1,38 @@
+.home-section {
+    margin-bottom: calc(var(--gap) * 2);
+}
+
+.home-section h2 {
+    font-size: 1.15rem;
+    margin: 0 0 0.4rem;
+}
+
+.entry-list {
+    list-style: none;
+    margin: var(--gap) 0 0;
+    padding: 0;
+}
+
+.entry-list li {
+    display: flex;
+    gap: 1.5rem;
+    margin: 0.4rem 0;
+}
+
+.entry-list time {
+    flex: 0 0 6.5rem;
+    color: var(--secondary);
+    font-variant-numeric: tabular-nums;
+}
+
+.entry-summary li {
+    display: block;
+}
+
+.entry-summary a {
+    font-weight: 700;
+}
+
+.entry-summary .entry-desc::before {
+    content: ": ";
+}

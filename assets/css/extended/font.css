@@ -1,0 +1,42 @@
+:root {
+    --theme: #fff;
+    --primary: #333;
+    --secondary: #333;
+    --content: #333;
+    --main-width: 680px;
+}
+
+.dark {
+    --theme: #000;
+    --primary: #fff;
+    --secondary: #c1c1c1;
+    --content: #fff;
+}
+
+body {
+    font-family: Menlo, monospace;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.725;
+}
+
+.list,
+.dark.list {
+    background: var(--theme);
+}
+
+.main a {
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 4px;
+    text-decoration-color: #a5a5a5;
+}
+
+.dark .main a {
+    text-decoration-color: #d1d1d1;
+}
+
+.post-title,
+.page-header h1 {
+    font-size: 22px;
+}
